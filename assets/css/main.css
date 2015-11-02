@@ -2587,8 +2587,8 @@
 /* Footer */
 
 	#footer {
-		background: #fafafa;
-		border-top: 0;
+		border-top: solid 6px #2C007B;
+		background: #0E0027;
 		color: #c0c0c0;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
@@ -3062,3 +3062,7 @@
 			}
 
 	}
+.input{
+	color: #FFF;
+	background-color: #0E0027;
+}
