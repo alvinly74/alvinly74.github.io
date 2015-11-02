@@ -2560,7 +2560,7 @@
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #2C007B;
+		border-top: solid 6px #12132B;
 	}
 
 		#main > section > .container {
@@ -3065,4 +3065,8 @@
 .input{
 	color: #FFF;
 	background-color: #0E0027;
+}
+#middle{
+	padding-right:0;
+	padding-left: 2.5em;
 }
