@@ -2587,11 +2587,10 @@
 /* Footer */
 
 	#footer {
-		border-top: solid 6px #2C007B;
+		border-top: solid 6px #10102C;
 		background: #0E0027;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
 	}
 
 		#footer .copyright {
