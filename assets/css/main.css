@@ -1963,7 +1963,7 @@
 
 /* Icon */
 
-.fa-linkedin:before{
+a.fa-linkedin:before{
 	content: "\f0e1";
 }
 
