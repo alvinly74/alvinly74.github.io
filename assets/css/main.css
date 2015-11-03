@@ -1963,6 +1963,10 @@
 
 /* Icon */
 
+.fa-linkedin:before{
+	content: "\f0e1";
+}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
