@@ -1963,9 +1963,19 @@
 
 /* Icon */
 
-a.fa-linkedin{
-	border:	3px solid lime;
+a.fa-linkedin:before{
 	content: "\f0e1";
+	font-size: 1.25em;
+-moz-osx-font-smoothing: grayscale;
+-webkit-font-smoothing: antialiased;
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-transform: none !important;
+content: "\f0e1";
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
 }
 
 	.icon {
