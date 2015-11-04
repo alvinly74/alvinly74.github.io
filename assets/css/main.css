@@ -1963,7 +1963,7 @@
 
 /* Icon */
 
-a.fa-linkedin:before{
+a.fa-linkedin{
 	content: "\f0e1";
 	font-size: 1.25em;
 -moz-osx-font-smoothing: grayscale;
